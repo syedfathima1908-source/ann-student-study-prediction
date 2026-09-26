@@ -365,15 +365,3 @@ Prediction
 ```
 
 ---
-
-## 👩‍💻 Author
-
-**Syed Fathima**
-
-B.Tech – Computer Science & Engineering (AI & ML)
-
----
-
-## ⭐ If You Found This Useful
-
-If this project helped you understand the basics of PyTorch and neural networks, consider giving the repository a ⭐ on GitHub.
